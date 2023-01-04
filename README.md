@@ -8,7 +8,7 @@ Take a look at the example pull request [#3](https://github.com/cypress-io/gh-ac
 
 ![Pull request checks](images/pull-request.png)
 
-The tests run inside GH Actions using [cypress-io/github-action](https://github.com/cypress-io/github-action), see the workflow file [.github/workflows/tests.yml](.github/workflows/tests.yml).
+The tests 22 run inside GH Actions using [cypress-io/github-action](https://github.com/cypress-io/github-action), see the workflow file [.github/workflows/tests.yml](.github/workflows/tests.yml).
 
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
